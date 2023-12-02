@@ -7,6 +7,7 @@
 One challenge in Machine Learning is understanding of black-box classification and regression ML models. While these models demonstrate high accuracy, however, lack of transparency making it difficult for stakeholders to interpret and trust their outcomes in their decision-making processes. One powerful solution for addressing this challenge is Google What-If Tool. This tool serves as a resource for testing ML model performance in different scenarios, assessing the significance of different data features, and visualizing data across various models.
 
 The primary goal of Google What-If Tool is to empower individuals, even those who without coding expertise, to explore trained ML models through a user-friendly interface. As for technical experts, Google What-If can integrate with TensorBoard and use with your model deployed on cloud AI platform.
+![tile_tool_what_if](https://github.com/Chinghsiaochen/What-if-tool-for-Online-shopping-prediction/assets/104823654/8276de9e-c8d3-4fab-8bb4-6f6d8c91a669)
 
 ### Set up instruction: 
 1. Set-up: Install the required witwidget package
