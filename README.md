@@ -27,3 +27,5 @@ In our demonstration, we use Online Shoppers Purchasing Intention Dataset from U
 ### Relevant resources:
 - Official Website: https://cloud.google.com/blog/products/ai-machine-learning/introducing-the-what-if-tool-for-cloud-ai-platform-models
 - Introduction for beginner: https://www.youtube.com/watch?v=qTUUwfG1vSs 
+- Other reference: https://medium.com/@furcifer/explaining-trees-with-fasttreeshap-and-what-if-tool-dc0afde9613
+  https://medium.com/p/6ec140d45967
