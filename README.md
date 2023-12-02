@@ -1,6 +1,7 @@
 # Expanding AI Explainability and Model Transparency to All with Google What-If
 
 *This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota*
+![data_cloud_ai_summit max-2500x2500](https://github.com/Chinghsiaochen/What-if-tool-for-Online-shopping-prediction/assets/104823654/7522a095-5c26-4172-8bb6-86026c6758cd)
 
 ### Introduction: 
 One challenge in Machine Learning is understanding of black-box classification and regression ML models. While these models demonstrate high accuracy, however, lack of transparency making it difficult for stakeholders to interpret and trust their outcomes in their decision-making processes. One powerful solution for addressing this challenge is Google What-If Tool. This tool serves as a resource for testing ML model performance in different scenarios, assessing the significance of different data features, and visualizing data across various models.
@@ -22,5 +23,5 @@ Another use case for Google What-if is to be utilized independently without a de
 In our demonstration, we use Online Shoppers Purchasing Intention Dataset from UC Irvine Machine Learning Repository.
 
 ### Relevant resources:
-- Official Website: https://pair-code.github.io/what-if-tool/
+- Official Website: https://cloud.google.com/blog/products/ai-machine-learning/introducing-the-what-if-tool-for-cloud-ai-platform-models
 - Introduction for beginner: https://www.youtube.com/watch?v=qTUUwfG1vSs 
