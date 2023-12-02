@@ -23,6 +23,7 @@ Another use case for Google What-if is to be utilized independently without a de
 
 ### Dataset
 In our demonstration, we use Online Shoppers Purchasing Intention Dataset from UC Irvine Machine Learning Repository.
+https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 ### Relevant resources:
 - Official Website: https://cloud.google.com/blog/products/ai-machine-learning/introducing-the-what-if-tool-for-cloud-ai-platform-models
