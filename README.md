@@ -25,6 +25,9 @@ Another use case for Google What-if is to be utilized independently without a de
 In our demonstration, we use Online Shoppers Purchasing Intention Dataset from UC Irvine Machine Learning Repository.
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
+### Project Video
+https://www.youtube.com/watch?v=sIoayXDUe1Y
+
 ### Relevant resources:
 - Official Website: https://cloud.google.com/blog/products/ai-machine-learning/introducing-the-what-if-tool-for-cloud-ai-platform-models
 - Introduction for beginner: https://www.youtube.com/watch?v=qTUUwfG1vSs 
