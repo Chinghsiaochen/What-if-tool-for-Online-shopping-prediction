@@ -26,7 +26,8 @@ In our demonstration, we use Online Shoppers Purchasing Intention Dataset from U
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 ### Project Video
-<img width="1221" alt="Screenshot 2023-12-06 at 5 13 53 PM" src="https://github.com/Chinghsiaochen/What-if-tool-for-Online-shopping-prediction/assets/104823654/f3066f10-3aa4-4158-a15c-950220e950ee">
+
+![Video Page](https://github.com/Chinghsiaochen/What-if-tool-for-Online-shopping-prediction/assets/104823654/602405ab-81f3-4c82-9f90-944a2a5120d9)
 https://www.youtube.com/watch?v=sIoayXDUe1Y
 
 ### Relevant resources:
